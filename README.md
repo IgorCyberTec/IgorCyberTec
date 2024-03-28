@@ -18,7 +18,8 @@ Olá! 👋 Meu nome e Igor, um apaixonado por segurança da informação e anál
 
 ## Contato
 
-- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/igorgoncalvesoliveira/) para mais informações e oportunidades de colaboração.
+[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/igorgoncalvesoliveira/)
+
 
 Estou sempre interessado em trocar ideias, colaborar em projetos interessantes e compartilhar conhecimento. Sinta-se à vontade para entrar em contato!
 
