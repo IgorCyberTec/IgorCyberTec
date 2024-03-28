@@ -18,7 +18,11 @@ Olá! 👋 Meu nome e Igor, um apaixonado por segurança da informação e anál
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/igorgoncalvesoliveira/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorcybertec/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorgoncalvesoliveira/)
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/igorcybertec)
+
+
 
 
 Estou sempre interessado em trocar ideias, colaborar em projetos interessantes e compartilhar conhecimento. Sinta-se à vontade para entrar em contato!
