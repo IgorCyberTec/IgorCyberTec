@@ -2,6 +2,8 @@
 
 Olá! 👋 Meu nome e Igor, trabalho com segurança da informação e análise de riscos. Como Analista de Governança, Risco e Conformidade (GRC), tenho dedicado minha carreira a garantir que as empresas operem de maneira ética, legal e segura no ambiente digital.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## Áreas de Interesse
 
 - Segurança da Informação
