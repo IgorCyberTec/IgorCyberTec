@@ -12,7 +12,7 @@ Olá! 👋 Meu nome e Igor, trabalho com segurança da informação e análise d
 
 ## Experiência e Formação
 
-- 💼 Experiência como Analista GRC
+- 💼 Analista GRC
 - 💻 Conhecimento prático em Pentest
 - 📃 Palestrante na área de segurança
 - 📚 Sempre em busca de aprendizado contínuo e aprimoramento profissional
