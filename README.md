@@ -14,7 +14,7 @@ Olá! 👋 Meu nome e Igor, trabalho com segurança da informação e análise d
 
 - 💼 Analista GRC
 - 💻 Conhecimento prático em Pentest
-- 📃 Palestrante na área de segurança
+- 📃 Inteligencia Artificial
 - 📚 Sempre em busca de aprendizado contínuo e aprimoramento profissional
 
 ## Contato
