@@ -2,8 +2,7 @@
 
 # Sobre Mim
 
-Olá! 👋 Meu nome é Igor, sou especialista em Segurança da Informação e Análise de Riscos. Como Analista de Governança, Risco e Conformidade (GRC), dedico minha carreira a garantir que as organizações mantenham operações éticas, legais e seguras no ambiente digital. Recentemente, estou expandindo meu foco para o impacto da Inteligência Artificial em processos de GRC, buscando maneiras de integrar automação inteligente em frameworks de segurança e conformidade.
-
+Olá! 👋 Meu nome é Igor, sou especialista em Segurança da Informação e Análise de Riscos, e eu Tambem Gosto de Inteligencia Artificial 
 ## Áreas de Interesse
 
 - Segurança da Informação
@@ -11,8 +10,8 @@ Olá! 👋 Meu nome é Igor, sou especialista em Segurança da Informação e An
 - Governança Corporativa e Conformidade
 - Pentest e Auditorias de Segurança
 - Conscientização em Segurança Cibernética
-- Inteligência Artificial aplicada à GRC
-
+- Inteligência Artificial
+  
 ## Experiência e Formação
 
 - 💼 Analista GRC com experiência em ambientes corporativos e gerenciamento de riscos tecnológicos
