@@ -11,12 +11,13 @@ Olá! 👋 Meu nome é Igor, sou especialista em Segurança da Informação e An
 - Pentest e Auditorias de Segurança
 - Conscientização em Segurança Cibernética
 - Inteligência Artificial
+- Consultoria em IA
   
 ## Experiência e Formação
 
 - 💼 Analista GRC com experiência em ambientes corporativos e gerenciamento de riscos tecnológicos
 - 💻 Conhecimento prático em Pentest e Avaliações de Vulnerabilidades
-- 🤖 Estudando o uso de Inteligência Artificial para otimizar processos de segurança e conformidade
+- 🤖 Gestor de Inteligência Artificial para otimizar processos de segurança e conformidade
 - 📚 Sempre em busca de aprendizado contínuo, com foco em soluções inovadoras para desafios de segurança
 
 ## Contato
