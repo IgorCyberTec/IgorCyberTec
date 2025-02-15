@@ -20,9 +20,6 @@ Olá! 👋 Meu nome é Igor, sou especialista em Segurança da Informação e An
 - 🤖 Gestor de Inteligência Artificial para otimizar processos de segurança e conformidade
 - 📚 Sempre em busca de aprendizado contínuo, com foco em soluções inovadoras para desafios de segurança
 
-## Cachorro Robo Unitree Go2
-Tive a oportunidade de trabalhar codando novas funcionalidades do cachorro robo da unitree o go2, os codigos criados estao nos meus repositórios publico para todos
-
 ## Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorcybertec/)
